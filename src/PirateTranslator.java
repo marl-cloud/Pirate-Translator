@@ -42,11 +42,17 @@ public class PirateTranslator {
 			count++;
 			String word = phrases[count-1];
 			//System.out.println(i);
-			System.out.println(count);
-			System.out.println(word);
+			//System.out.println(count);
+			//System.out.println(word);
+
 		}
+		System.out.println(count);
 
-
+//		while (count >= 0) {
+//			boolean within = phrases.contains(split[count]);
+//			//if split[count]
+//
+//			count--;
 
 		return input;
 
